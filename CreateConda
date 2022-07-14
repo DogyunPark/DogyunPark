@@ -1,0 +1,12 @@
+## Conda 가상환경 생성 ##
+conda create -n pytorch1.9(이름)
+
+## 해당 서버의 드라이버에 맞는 cuda 버전 설치 확인 ##
+## https://docs.nvidia.com/deploy/cuda-compatibility/index.html ##
+
+## 해당 cuda 버전에 맞는 pytorch 버전 설치 필요 ##
+## pytorch 버전 확인 링크 ##
+## https://pytorch.org/get-started/locally/ ##
+
+
+
