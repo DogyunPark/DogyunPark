@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&duration=4800&color=99B802&background=743FFF00&lines=Growing+Up+Front-end+Developer;Slow+and+Steady+Wins+the+Race">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Slow+and+Steady+Learner">
 </p>
 
 ### Who Am I
