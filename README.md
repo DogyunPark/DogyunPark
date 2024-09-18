@@ -31,9 +31,4 @@
   <br/>
 </details>
 
-<h3 align="center">
-  Thanks for Stopping by <br/>
-  May your day be crowded with unexpected joys 🤞🏻🍀✨
-</h3>
-
 
