@@ -8,18 +8,17 @@
 
 ### Who Am I
 
-- 🌱 I am currently putting most of my focus on web development with `React` and `Typescript`
-- 🌳 I want to be a FrontEnd engineer
-- 💧 I am trying my best to taking care in the experience, architecture and code quality of the things I build
+- 🌱 I am interested in image/video Generative AI
+- 💧 I am trying my best to take care in the experience, architecture and code quality of the things I build
 - ☀️ In order to be a person that I dream of, what else do I need other than persistance?
 
 ### What I Like
 
 - 👩🏻‍💻 Other than Programming ... 
-- 🤺 I love to stab
-- 🔮 I love Disney
+- 🤺 I love soccer
+- 🔮 I love Marvel movies
 - 🎵 I love to watch Musicals
-- 🌳 and I love Captain Tree 
+- 🌳 and I love Faker
 
 <br/>
 
@@ -36,10 +35,5 @@
   Thanks for Stopping by <br/>
   May your day be crowded with unexpected joys 🤞🏻🍀✨
 </h3>
-<div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDogyunPark%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits+%E2%AD%90&edge_flat=false"/>
-  </a>
-</div>
-
 
 
