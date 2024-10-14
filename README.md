@@ -8,7 +8,7 @@
 
 ### Who Am I
 
-- 🌱 I am interested in image/video Generative AI, Computer Vision, Multi-modal understanding, and Foundation models.
+- 🌱 I am interested in Image/Video Generative Models, Computer Vision, Multi-modal understanding, and Foundation Models.
 
 
 <br/>
