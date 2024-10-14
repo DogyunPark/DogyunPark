@@ -8,17 +8,8 @@
 
 ### Who Am I
 
-- 🌱 I am interested in image/video Generative AI
-- 💧 I am trying my best to take care in the experience, architecture and code quality of the things I build
-- ☀️ In order to be a person that I dream of, what else do I need other than persistance?
+- 🌱 I am interested in image/video Generative AI, Computer Vision, Multi-modal understanding, and Foundation models.
 
-### What I Like
-
-- 👩🏻‍💻 Other than Programming ... 
-- 🤺 I love soccer
-- 🔮 I love Marvel movies
-- 🎵 I love to watch Musicals
-- 🌳 and I love Faker
 
 <br/>
 
